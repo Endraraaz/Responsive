@@ -1,0 +1,1656 @@
+.search-top-text { 
+	 left: 420px; 
+	 top: 88px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 8px;
+	 z-index:173;
+} 
+
+ .search-top-logo { 
+	 left: 388px; 
+	 top: 84px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 18px;
+	 z-index:174;
+} 
+.logo{
+     left: 882px; 
+	 top: 52px; 
+	 position: absolute; 
+	 width: 154px;
+	 height: 65px;
+	 z-index:175;
+}
+
+a{
+    text-decoration: none;
+}
+.navigation ul{
+    list-style-type: none;
+}
+
+/* items class contents */
+
+.Rectangle2 
+{ 
+	 left: 426px; 
+	 top: 997px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 3px;
+	 z-index:51;
+} 
+
+ .Rectangle21 
+{ 
+	 left: 426px; 
+	 top: 1000px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 4px;
+	 z-index:52;
+} 
+
+ .Rectangle22 
+{ 
+	 left: 431px; 
+	 top: 1004px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 4px;
+	 z-index:53;
+} 
+
+ .Rectangle23 
+{ 
+	 left: 426px; 
+	 top: 1088px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 5px;
+	 z-index:54;
+} 
+
+ .Rectangle24 
+{ 
+	 left: 426px; 
+	 top: 1091px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 4px;
+	 z-index:55;
+} 
+
+ .Rectangle25 
+{ 
+	 left: 426px; 
+	 top: 1094px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 4px;
+	 z-index:56;
+} 
+
+ .Rectangle26 
+{ 
+	 left: 27.5em; 
+	 top: 1094px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 4px;
+	 z-index:57;
+} 
+
+ .Rectangle27 
+{ 
+	 left: 441px; 
+	 top: 1092px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 9px;
+	 z-index:58;
+} 
+
+.Rectangle11 
+{ 
+	 left: 484px; 
+	 top: 967px; 
+	 position: absolute; 
+	 width: 267px;
+	 height: 259px;
+	 z-index:59;
+} 
+
+ .LavaVtase 
+{ 
+	 left: 516px; 
+	 top: 1287px; 
+	 position: absolute; 
+	 width: 109px;
+	 height: 18px;
+	 z-index:60;
+} 
+
+ .AddTocart 
+{ 
+	 left: 545px; 
+	 top: 1426px; 
+	 position: absolute; 
+	 width: 79px;
+	 height: 10px;
+	 z-index:61;
+} 
+
+ .cart 
+{ 
+	 left: 508px; 
+	 top: 1418px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 24px;
+	 z-index:62;
+} 
+
+ .layer_65003500 
+{ 
+	 left: 519px; 
+	 top: 1329px; 
+	 position: absolute; 
+	 width: 102px;
+	 height: 13px;
+	 z-index:63;
+} 
+
+ .Shape12 
+{ 
+	 left: 418px; 
+	 top: 1381px; 
+	 position: absolute; 
+	 width: 305px;
+	 height: 4px;
+	 z-index:64;
+} 
+
+ .Forma13 
+{ 
+	 left: 425px; 
+	 top: 1045px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 19px;
+	 z-index:65;
+} 
+
+ .Ellipse2 
+{ 
+	 left: 459px; 
+	 top: 1157px; 
+	 position: absolute; 
+	 width: 52px;
+	 height: 52px;
+	 z-index:66;
+} 
+
+ .New 
+{ 
+	 left: 472px; 
+	 top: 1177px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 10px;
+	 z-index:67;
+} 
+
+ .Rectangle12 
+{ 
+	 left: 779px; 
+	 top: 967px; 
+	 position: absolute; 
+	 width: 363px;
+	 height: 517px;
+	 z-index:68;
+} 
+
+ .Rectangle28 
+{ 
+	 left: 816px; 
+	 top: 997px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 3px;
+	 z-index:69;
+} 
+
+ .Rectangle29 
+{ 
+	 left: 816px; 
+	 top: 1000px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 4px;
+	 z-index:70;
+} 
+
+ .Rectangle210 
+{ 
+	 left: 822px; 
+	 top: 1004px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 4px;
+	 z-index:71;
+} 
+
+ .Rectangle211 
+{ 
+	 left: 816px; 
+	 top: 1088px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 5px;
+	 z-index:72;
+} 
+
+ .Rectangle212 
+{ 
+	 left: 816px; 
+	 top: 1091px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 4px;
+	 z-index:73;
+} 
+
+ .Rectangle213 
+{ 
+	 left: 816px; 
+	 top: 1094px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 4px;
+	 z-index:74;
+} 
+
+ .Rectangle214 
+{ 
+	 left: 831px; 
+	 top: 1094px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 4px;
+	 z-index:75;
+} 
+
+ .Rectangle215 
+{ 
+	 left: 832px; 
+	 top: 1092px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 9px;
+	 z-index:76;
+} 
+
+ .Rectangle13 
+{ 
+	 left: 875px; 
+	 top: 967px; 
+	 position: absolute; 
+	 width: 267px;
+	 height: 259px;
+	 z-index:77;
+} 
+
+ .CeramicPot 
+{ 
+	 left: 900px; 
+	 top: 1287px; 
+	 position: absolute; 
+	 width: 122px;
+	 height: 18px;
+	 z-index:78;
+} 
+
+ .AddTocart1 
+{ 
+	 left: 936px; 
+	 top: 1426px; 
+	 position: absolute; 
+	 width: 79px;
+	 height: 10px;
+	 z-index:79;
+} 
+
+ .cart1 
+{ 
+	 left: 899px; 
+	 top: 1418px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 24px;
+	 z-index:80;
+} 
+
+ .layer_78004500 
+{ 
+	 left: 910px; 
+	 top: 1329px; 
+	 position: absolute; 
+	 width: 102px;
+	 height: 13px;
+	 z-index:81;
+} 
+
+ .Shape13 
+{ 
+	 left: 809px; 
+	 top: 1381px; 
+	 position: absolute; 
+	 width: 305px;
+	 height: 4px;
+	 z-index:82;
+} 
+
+ .Forma14 
+{ 
+	 left: 816px; 
+	 top: 1045px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 19px;
+	 z-index:83;
+} 
+
+ .Ellipse21 
+{ 
+	 left: 851px; 
+	 top: 1157px; 
+	 position: absolute; 
+	 width: 51px;
+	 height: 52px;
+	 z-index:84;
+} 
+
+ .Hot 
+{ 
+	 left: 865px; 
+	 top: 1177px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 10px;
+	 z-index:85;
+} 
+
+ .Rectangle14 
+{ 
+	 left: 1169px; 
+	 top: 967px; 
+	 position: absolute; 
+	 width: 363px;
+	 height: 517px;
+	 z-index:86;
+} 
+
+ .Rectangle216 
+{ 
+	 left: 1206px; 
+	 top: 997px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 3px;
+	 z-index:87;
+} 
+
+ .Rectangle217 
+{ 
+	 left: 1206px; 
+	 top: 1000px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 4px;
+	 z-index:88;
+} 
+
+ .Rectangle218 
+{ 
+	 left: 1212px; 
+	 top: 1004px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 4px;
+	 z-index:89;
+} 
+
+ .Rectangle219 
+{ 
+	 left: 1206px; 
+	 top: 1088px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 5px;
+	 z-index:90;
+} 
+
+ .Rectangle220 
+{ 
+	 left: 1206px; 
+	 top: 1091px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 4px;
+	 z-index:91;
+} 
+
+ .Rectangle221 
+{ 
+	 left: 1206px; 
+	 top: 1094px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 4px;
+	 z-index:92;
+} 
+
+ .Rectangle222 
+{ 
+	 left: 1221px; 
+	 top: 1094px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 4px;
+	 z-index:93;
+} 
+
+ .Rectangle223 
+{ 
+	 left: 1222px; 
+	 top: 1092px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 9px;
+	 z-index:94;
+} 
+
+ .Rectangle15 
+{ 
+	 left: 1264px; 
+	 top: 969px; 
+	 position: absolute; 
+	 width: 267px;
+	 height: 259px;
+	 z-index:95;
+} 
+
+ .DinnerwareService 
+{ 
+	 left: 1254px; 
+	 top: 1287px; 
+	 position: absolute; 
+	 width: 195px;
+	 height: 18px;
+	 z-index:96;
+} 
+
+ .AddTocart2 
+{ 
+	 left: 1326px; 
+	 top: 1426px; 
+	 position: absolute; 
+	 width: 79px;
+	 height: 10px;
+	 z-index:97;
+} 
+
+ .cart2 
+{ 
+	 left: 1289px; 
+	 top: 1418px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 24px;
+	 z-index:98;
+} 
+
+ .layer_89005600 
+{ 
+	 left: 1300px; 
+	 top: 1329px; 
+	 position: absolute; 
+	 width: 102px;
+	 height: 13px;
+	 z-index:99;
+} 
+
+ .Shape14 
+{ 
+	 left: 1199px; 
+	 top: 1381px; 
+	 position: absolute; 
+	 width: 305px;
+	 height: 4px;
+	 z-index:100;
+} 
+
+ .Forma15 
+{ 
+	 left: 1206px; 
+	 top: 1045px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 19px;
+	 z-index:101;
+} 
+
+ .Ellipse22 
+{ 
+	 left: 1241px; 
+	 top: 1157px; 
+	 position: absolute; 
+	 width: 51px;
+	 height: 52px;
+	 z-index:102;
+} 
+
+ .New1 
+{ 
+	 left: 1253px; 
+	 top: 1177px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 10px;
+	 z-index:103;
+} 
+
+ .Rectangle16 
+{ 
+	 left: 389px; 
+	 top: 1518px; 
+	 position: absolute; 
+	 width: 362px;
+	 height: 515px;
+	 z-index:104;
+} 
+
+ .Rectangle224 
+{ 
+	 left: 426px; 
+	 top: 1546px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 5px;
+	 z-index:105;
+} 
+
+ .Rectangle225 
+{ 
+	 left: 426px; 
+	 top: 1550px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 5px;
+	 z-index:106;
+} 
+
+ .Rectangle226 
+{ 
+	 left: 431px; 
+	 top: 1554px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 5px;
+	 z-index:107;
+} 
+
+ .Rectangle227 
+{ 
+	 left: 426px; 
+	 top: 1639px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 4px;
+	 z-index:108;
+} 
+
+ .Rectangle228 
+{ 
+	 left: 426px; 
+	 top: 1642px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 4px;
+	 z-index:109;
+} 
+
+ .Rectangle229 
+{ 
+	 left: 426px; 
+	 top: 1644px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 5px;
+	 z-index:110;
+} 
+
+ .Rectangle230 
+{ 
+	 left: 440px; 
+	 top: 1644px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 5px;
+	 z-index:111;
+} 
+
+ .Rectangle231 
+{ 
+	 left: 441px; 
+	 top: 1643px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 7px;
+	 z-index:112;
+} 
+
+ .Rectangle17 
+{ 
+	 left: 484px; 
+	 top: 1518px; 
+	 position: absolute; 
+	 width: 267px;
+	 height: 259px;
+	 z-index:113;
+} 
+
+ .NormJars 
+{ 
+	 left: 520px; 
+	 top: 1837px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 20px;
+	 z-index:114;
+} 
+
+ .AddTocart3 
+{ 
+	 left: 545px; 
+	 top: 1976px; 
+	 position: absolute; 
+	 width: 79px;
+	 height: 10px;
+	 z-index:115;
+} 
+
+ .cart3 
+{ 
+	 left: 508px; 
+	 top: 1968px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 24px;
+	 z-index:116;
+} 
+
+ .layer_650035001 
+{ 
+	 left: 519px; 
+	 top: 1879px; 
+	 position: absolute; 
+	 width: 102px;
+	 height: 13px;
+	 z-index:117;
+} 
+
+ .Shape15 
+{ 
+	 left: 418px; 
+	 top: 1931px; 
+	 position: absolute; 
+	 width: 305px;
+	 height: 4px;
+	 z-index:118;
+} 
+
+ .Forma16 
+{ 
+	 left: 425px; 
+	 top: 1595px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 19px;
+	 z-index:119;
+} 
+
+ .Rectangle18 
+{ 
+	 left: 779px; 
+	 top: 1518px; 
+	 position: absolute; 
+	 width: 363px;
+	 height: 515px;
+	 z-index:120;
+} 
+
+ .Rectangle232 
+{ 
+	 left: 816px; 
+	 top: 1546px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 5px;
+	 z-index:121;
+} 
+
+ .Rectangle233 
+{ 
+	 left: 816px; 
+	 top: 1550px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 5px;
+	 z-index:122;
+} 
+
+ .Rectangle234 
+{ 
+	 left: 822px; 
+	 top: 1554px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 5px;
+	 z-index:123;
+} 
+
+ .Rectangle235 
+{ 
+	 left: 816px; 
+	 top: 1639px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 4px;
+	 z-index:124;
+} 
+
+ .Rectangle236 
+{ 
+	 left: 816px; 
+	 top: 1642px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 4px;
+	 z-index:125;
+} 
+
+ .Rectangle237 
+{ 
+	 left: 816px; 
+	 top: 1644px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 5px;
+	 z-index:126;
+} 
+
+ .Rectangle238 
+{ 
+	 left: 831px; 
+	 top: 1644px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 5px;
+	 z-index:127;
+} 
+
+ .Rectangle239 
+{ 
+	 left: 832px; 
+	 top: 1643px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 7px;
+	 z-index:128;
+} 
+
+ .Rectangle19 
+{ 
+	 left: 875px; 
+	 top: 1518px; 
+	 position: absolute; 
+	 width: 267px;
+	 height: 259px;
+	 z-index:129;
+} 
+
+ .FloatingBoat 
+{ 
+	 left: 894px; 
+	 top: 1837px; 
+	 position: absolute; 
+	 width: 135px;
+	 height: 23px;
+	 z-index:130;
+} 
+
+ .AddTocart4 
+{ 
+	 left: 936px; 
+	 top: 1976px; 
+	 position: absolute; 
+	 width: 79px;
+	 height: 10px;
+	 z-index:131;
+} 
+
+ .cart4 
+{ 
+	 left: 899px; 
+	 top: 1968px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 24px;
+	 z-index:132;
+} 
+
+ .layer_780045001 
+{ 
+	 left: 910px; 
+	 top: 1879px; 
+	 position: absolute; 
+	 width: 102px;
+	 height: 13px;
+	 z-index:133;
+} 
+
+ .Shape16 
+{ 
+	 left: 809px; 
+	 top: 1931px; 
+	 position: absolute; 
+	 width: 305px;
+	 height: 4px;
+	 z-index:134;
+} 
+
+ .Forma17 
+{ 
+	 left: 816px; 
+	 top: 1595px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 19px;
+	 z-index:135;
+} 
+
+ .Ellipse23 
+{ 
+	 left: 851px; 
+	 top: 1707px; 
+	 position: absolute; 
+	 width: 51px;
+	 height: 52px;
+	 z-index:136;
+} 
+
+ .Hot1 
+{ 
+	 left: 865px; 
+	 top: 1727px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 10px;
+	 z-index:137;
+} 
+
+ .Rectangle110 
+{ 
+	 left: 1169px; 
+	 top: 1518px; 
+	 position: absolute; 
+	 width: 363px;
+	 height: 515px;
+	 z-index:138;
+} 
+
+ .Rectangle240 
+{ 
+	 left: 1206px; 
+	 top: 1546px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 5px;
+	 z-index:139;
+} 
+
+ .Rectangle241 
+{ 
+	 left: 1206px; 
+	 top: 1550px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 5px;
+	 z-index:140;
+} 
+
+ .Rectangle242 
+{ 
+	 left: 1212px; 
+	 top: 1554px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 5px;
+	 z-index:141;
+} 
+
+ .Rectangle243 
+{ 
+	 left: 1206px; 
+	 top: 1639px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 4px;
+	 z-index:142;
+} 
+
+ .Rectangle244 
+{ 
+	 left: 1206px; 
+	 top: 1642px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 4px;
+	 z-index:143;
+} 
+
+ .Rectangle245 
+{ 
+	 left: 1206px; 
+	 top: 1644px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 5px;
+	 z-index:144;
+} 
+
+ .Rectangle246 
+{ 
+	 left: 1221px; 
+	 top: 1644px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 5px;
+	 z-index:145;
+} 
+
+ .Rectangle247 
+{ 
+	 left: 1222px; 
+	 top: 1643px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 7px;
+	 z-index:146;
+} 
+
+ .Rectangle111 
+{ 
+	 left: 1265px; 
+	 top: 1518px; 
+	 position: absolute; 
+	 width: 267px;
+	 height: 259px;
+	 z-index:147;
+} 
+
+ .CeramicPot1 
+{ 
+	 left: 1290px; 
+	 top: 1837px; 
+	 position: absolute; 
+	 width: 122px;
+	 height: 18px;
+	 z-index:148;
+} 
+
+ .AddTocart5 
+{ 
+	 left: 1326px; 
+	 top: 1976px; 
+	 position: absolute; 
+	 width: 79px;
+	 height: 10px;
+	 z-index:149;
+} 
+
+ .cart5 
+{ 
+	 left: 1289px; 
+	 top: 1968px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 24px;
+	 z-index:150;
+} 
+
+ .layer_890056001 
+{ 
+	 left: 1300px; 
+	 top: 1879px; 
+	 position: absolute; 
+	 width: 102px;
+	 height: 13px;
+	 z-index:151;
+} 
+
+ .Shape17 
+{ 
+	 left: 1199px; 
+	 top: 1931px; 
+	 position: absolute; 
+	 width: 305px;
+	 height: 4px;
+	 z-index:152;
+} 
+
+ .Forma18 
+{ 
+	 left: 1206px; 
+	 top: 1595px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 19px;
+	 z-index:153;
+} 
+
+ .Ellipse24 
+{ 
+	 left: 1241px; 
+	 top: 1707px; 
+	 position: absolute; 
+	 width: 51px;
+	 height: 52px;
+	 z-index:154;
+} 
+
+ .New2 
+{ 
+	 left: 1253px; 
+	 top: 1727px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 10px;
+	 z-index:155;
+} 
+
+/* slider contents*/
+.Rectangle112 
+{ 
+	 left: -1px; 
+	 top: 222px; 
+	 position: absolute; 
+	 object-fit: fill;
+	 width: 1923px;
+	 height: 579px;
+	 z-index:163;
+} 
+
+ .ShopNow1 
+{ 
+	 left: 605px; 
+	 top: 592px; 
+	 position: absolute; 
+	 width: 86px;
+	 height: 16px;
+	 z-index:164;
+} 
+
+ .Shape2 
+{ 
+	 left: 1799px; 
+	 top: 488px; 
+	 position: absolute; 
+	 width: 122px;
+	 height: 4px;
+	 z-index:165;
+} 
+
+ .Shape21 
+{ 
+	 left: 1839px; 
+	 top: 519px; 
+	 position: absolute; 
+	 width: 82px;
+	 height: 4px;
+	 z-index:166;
+} 
+
+ .layer_010203 
+{ 
+	 left: 1868px; 
+	 top: 460px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 88px;
+	 z-index:167;
+} 
+
+ .SkyPlanter 
+{ 
+	 left: 604px; 
+	 top: 492px; 
+	 position: absolute; 
+	 width: 447px;
+	 height: 53px;
+	 z-index:168;
+} 
+
+ .layer_1800 
+{ 
+	 left: 1057px; 
+	 top: 492px; 
+	 position: absolute; 
+	 width: 74px;
+	 height: 23px;
+	 z-index:169;
+} 
+
+ .NewARRIVALS 
+{ 
+	 left: 601px; 
+	 top: 416px; 
+	 position: absolute; 
+	 width: 276px;
+	 height: 53px;
+	 z-index:170;
+} 
+
+/* featured class contents */
+.Pellentesquehabitant 
+{ 
+	 left: 1043px; 
+	 top: 2621px; 
+	 position: absolute; 
+	 width: 436px;
+	 height: 86px;
+	 z-index:46;
+} 
+
+ .Ellipse3 
+{ 
+	 left: 449px; 
+	 top: 2592px; 
+	 position: absolute; 
+	 width: 268px;
+	 height: 269px;
+	 z-index:47;
+} 
+
+ .layer_3500 
+{ 
+	 left: 506px; 
+	 top: 2707px; 
+	 position: absolute; 
+	 width: 141px;
+	 height: 41px;
+	 z-index:48;
+} 
+
+ .layer_6500 
+{ 
+	 left: 592px; 
+	 top: 2687px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 16px;
+	 z-index:49;
+} 
+
+.CeramicPlanterwithWo 
+{ 
+	 left: 1042px; 
+	 top: 2556px; 
+	 position: absolute; 
+	 width: 339px;
+	 height: 18px;
+	 z-index:43;
+} 
+
+ .WoodStand 
+{ 
+	 left: 918px; 
+	 top: 2388px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 412px;
+	 z-index:44;
+} 
+
+.Rectangle3 
+{ 
+	 left: 877px; 
+	 top: 2286px; 
+	 position: absolute; 
+	 width: 399px;
+	 height: 615px;
+	 z-index:36;
+} 
+.Rectangle31 
+{ 
+	 left: 959px; 
+	 top: 2207px; 
+	 position: absolute; 
+	 width: 962px;
+	 height: 774px;
+	 z-index:37;
+} 
+
+ .Featured 
+{ 
+	 left: 1080px; 
+	 top: 2267px; 
+	 position: absolute; 
+	 width: 865px;
+	 height: 130px;
+	 z-index:38;
+} 
+
+ .Rectangle32 
+{ 
+	 left: 1283px; 
+	 top: 2366px; 
+	 position: absolute; 
+	 width: 639px;
+	 height: 509px;
+	 z-index:39;
+} 
+
+ .Rectangle33 
+{ 
+	 left: 1283px; 
+	 top: 2610px; 
+	 position: absolute; 
+	 width: 204px;
+	 height: 107px;
+	 z-index:40;
+} 
+
+ .Rectangle34 
+{ 
+	 left: 1283px; 
+	 top: 2549px; 
+	 position: absolute; 
+	 width: 106px;
+	 height: 34px;
+	 z-index:41;
+} 
+
+ .ShopNow 
+{ 
+	 left: 1044px; 
+	 top: 2759px; 
+	 position: absolute; 
+	 width: 65px;
+	 height: 12px;
+	 z-index:42;
+} 
+
+/* Services class contents*/
+.Rectangle5 
+{ 
+	 left: -1px; 
+	 top: 2978px; 
+	 position: absolute; 
+	 width: 482px;
+	 height: 261px;
+	 z-index:20;
+} 
+
+ .FASTDELIVERY 
+{ 
+	 left: 157px; 
+	 top: 3140px; 
+	 position: absolute; 
+	 width: 166px;
+	 height: 14px;
+	 z-index:21;
+} 
+
+ .Samedaydeliveryassoo 
+{ 
+	 left: 122px; 
+	 top: 3173px; 
+	 position: absolute; 
+	 width: 236px;
+	 height: 14px;
+	 z-index:22;
+} 
+
+ .Shape1 
+{ 
+	 left: 191px; 
+	 top: 3031px; 
+	 position: absolute; 
+	 width: 98px;
+	 height: 63px;
+	 z-index:23;
+} 
+
+ .Rectangle51 
+{ 
+	 left: 479px; 
+	 top: 2978px; 
+	 position: absolute; 
+	 width: 482px;
+	 height: 261px;
+	 z-index:24;
+} 
+
+ .SPECIALDISCOUNT 
+{ 
+	 left: 615px; 
+	 top: 3140px; 
+	 position: absolute; 
+	 width: 209px;
+	 height: 14px;
+	 z-index:25;
+} 
+
+ .Getattractiveoffersd 
+{ 
+	 left: 624px; 
+	 top: 3173px; 
+	 position: absolute; 
+	 width: 192px;
+	 height: 14px;
+	 z-index:26;
+} 
+
+ .Shape11 
+{ 
+	 left: 683px; 
+	 top: 3026px; 
+	 position: absolute; 
+	 width: 75px;
+	 height: 74px;
+	 z-index:27;
+} 
+
+ .Rectangle52 
+{ 
+	 left: 959px; 
+	 top: 2978px; 
+	 position: absolute; 
+	 width: 482px;
+	 height: 261px;
+	 z-index:28;
+} 
+
+ .SECURECHECKOUT 
+{ 
+	 left: 1096px; 
+	 top: 3140px; 
+	 position: absolute; 
+	 width: 207px;
+	 height: 14px;
+	 z-index:29;
+} 
+
+ .Forma11 
+{ 
+	 left: 1170px; 
+	 top: 3018px; 
+	 position: absolute; 
+	 width: 61px;
+	 height: 83px;
+	 z-index:30;
+} 
+
+ .FullysecuredSSLcheck 
+{ 
+	 left: 1080px; 
+	 top: 3173px; 
+	 position: absolute; 
+	 width: 240px;
+	 height: 14px;
+	 z-index:31;
+} 
+
+ .Rectangle53 
+{ 
+	 left: 1439px; 
+	 top: 2978px; 
+	 position: absolute; 
+	 width: 482px;
+	 height: 261px;
+	 z-index:32;
+} 
+
+ .MONEYRETURNS 
+{ 
+	 left: 1587px; 
+	 top: 3140px; 
+	 position: absolute; 
+	 width: 185px;
+	 height: 14px;
+	 z-index:33;
+} 
+
+ .Moneybackguarntee 
+{ 
+	 left: 1595px; 
+	 top: 3173px; 
+	 position: absolute; 
+	 width: 170px;
+	 height: 14px;
+	 z-index:34;
+} 
+
+ .Forma12 
+{ 
+	 left: 1648px; 
+	 top: 3020px; 
+	 position: absolute; 
+	 width: 65px;
+	 height: 80px;
+	 z-index:35;
+} 
+
+
+/* footer part instagram section */
+.contain 
+{ 
+	 left: 1442px; 
+	 top: 3443px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 90px;
+	 z-index:3;
+} 
+
+ .contain1 
+{ 
+	 left: 1351px; 
+	 top: 3443px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 90px;
+	 z-index:4;
+} 
+
+ .contain2 
+{ 
+	 left: 1259px; 
+	 top: 3443px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 90px;
+	 z-index:5;
+} 
+
+ .contain3 
+{ 
+	 left: 1168px; 
+	 top: 3443px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 90px;
+	 z-index:6;
+} 
+
+ .contain4 
+{ 
+	 left: 1442px; 
+	 top: 3351px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 90px;
+	 z-index:7;
+} 
+
+ .contain5 
+{ 
+	 left: 1351px; 
+	 top: 3351px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 90px;
+	 z-index:8;
+} 
+
+ .contain6 
+{ 
+	 left: 1259px; 
+	 top: 3351px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 90px;
+	 z-index:9;
+} 
+
+ .contain7 
+{ 
+	 left: 1168px; 
+	 top: 3351px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 90px;
+	 z-index:10;
+} 
+
+.contain 
+{ 
+	 left: 1442px; 
+	 top: 3443px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 90px;
+	 z-index:3;
+} 
+
+ .contain1 
+{ 
+	 left: 1351px; 
+	 top: 3443px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 90px;
+	 z-index:4;
+} 
+
+ .contain2 
+{ 
+	 left: 1259px; 
+	 top: 3443px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 90px;
+	 z-index:5;
+} 
+
+ .contain3 
+{ 
+	 left: 1168px; 
+	 top: 3443px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 90px;
+	 z-index:6;
+} 
+
+ .contain4 
+{ 
+	 left: 1442px; 
+	 top: 3351px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 90px;
+	 z-index:7;
+} 
+
+ .contain5 
+{ 
+	 left: 1351px; 
+	 top: 3351px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 90px;
+	 z-index:8;
+} 
+
+ .contain6 
+{ 
+	 left: 1259px; 
+	 top: 3351px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 90px;
+	 z-index:9;
+} 
+
+ .contain7 
+{ 
+	 left: 1168px; 
+	 top: 3351px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 90px;
+	 z-index:10;
+} 
+
+ .Instagram 
+{ 
+	 left: 1197px; 
+	 top: 3302px; 
+	 position: absolute; 
+	 width: 76px;
+	 height: 18px;
+	 z-index:11;
+} 
+
+ .Forma1 
+{ 
+	 left: 1168px; 
+	 top: 3300px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 18px;
+	 z-index:12;
+} 
+.useful-links1{
+     left: 782px; 
+	 top: 3355px; 
+	 position: absolute; 
+	 width: 119px;
+	 height: 154px;
+	 z-index:14;
+}
+.useful-links2{
+    left: 938px; 
+    top: 3355px; 
+    position: absolute; 
+    width: 116px;
+    height: 118px;
+    z-index:13;
+}
+

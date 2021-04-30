@@ -1,0 +1,167 @@
+header{
+    background-color: #f4f4f4;
+    width: 100%;
+}
+.center{
+	margin: auto;
+}
+.clear-fix:before,
+.clear-fix:after{
+	content: " ";
+	display: block;
+}
+.clear-fix:after{
+	clear: both;
+}
+
+.float-l{
+	float: left;
+}
+.float-r{
+	float: right;
+}
+.slider{
+    background-color: #ade1c5;
+    min-width: 100%;
+}
+.nav-list{
+	left: 434px; 
+	top: 860px; 
+	position: absolute; 
+	width: 330px;
+	height: 8px;
+	z-index:156;
+}
+.nav-list ul li{
+	display: inline-block;
+}
+.Line 
+{ 
+	 left: 389px; 
+	 top: 894px; 
+	 position: absolute; 
+	 width: 1142px;
+	 height: 4px;
+	 z-index:160;
+} 
+.search-logo{
+	left: 1445px; 
+	top: 864px; 
+	position: absolute; 
+	width: 20px;
+	height: 18px;
+	z-index:162;
+}
+.search-text{
+	left: 1477px; 
+	top: 868px; 
+	position: absolute; 
+	width: 53px;
+	height: 8px;
+	z-index:161;
+}
+.navigation{
+	left: 743px; 
+	top: 186px; 
+	position: absolute; 
+	width: 433px;
+	height: 11px;
+	z-index:172;
+}
+.navigation ul li{
+	display: inline;
+}
+.f-logo{
+	left: 390px; 
+	 top: 3436px; 
+	 position: absolute; 
+	 width: 308px;
+	 height: 98px;
+	 z-index:16;
+}
+.payment-system{
+	left: 1258px; 
+	 top: 3687px; 
+	 position: absolute; 
+	 width: 280px;
+	 height: 67px;
+	 z-index:18;
+}
+.useful-links-title
+{ 
+	 left: 782px; 
+	 top: 3300px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 15px;
+	 z-index:15;
+} 
+.cart6 
+{ 
+	 left: 1453px; 
+	 top: 66px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 24px;
+	 z-index:176;
+} 
+
+ .Ellipse1 
+{ 
+	 left: 1469px; 
+	 top: 61px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 20px;
+	 z-index:177;
+} 
+
+ .layer_3 
+{ 
+	 left: 1475px; 
+	 top: 67px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 8px;
+	 z-index:178;
+} 
+
+ .user 
+{ 
+	 left: 1403px; 
+	 top: 62px; 
+	 position: absolute; 
+	 width: 26px;
+	 height: 27px;
+	 z-index:179;
+} 
+
+ .Rectangle251 
+{ 
+	 left: 1514px; 
+	 top: 72px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 3px;
+	 z-index:180;
+} 
+
+ .Rectangle252 
+{ 
+	 left: 1514px; 
+	 top: 76px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 3px;
+	 z-index:181;
+} 
+
+ .Rectangle253 
+{ 
+	 left: 1520px; 
+	 top: 79px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 4px;
+	 z-index:182;
+} 
